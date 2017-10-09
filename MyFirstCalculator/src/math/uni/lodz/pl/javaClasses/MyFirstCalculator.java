@@ -15,7 +15,7 @@ public class MyFirstCalculator {
 		Calculator thirdCalc = new Calculator(5,5);
 		
 		System.out.println(firstCalc.getResult());
-		System.out.println(secondCalc.getResult());
+		
 	}
 
 }
